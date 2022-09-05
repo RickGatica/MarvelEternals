@@ -123,9 +123,11 @@ header ul li a:hover {
   .banner {
     grid-template-columns: 1fr;
   }
+
   header {
     padding: 20px 40px;
   }
+
   .banner .content {
     padding: 40px;
     height: 70vh;
