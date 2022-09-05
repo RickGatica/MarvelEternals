@@ -4,7 +4,6 @@
   margin: 0;
   padding: 0;
   box-sizing: border-box;
-  overflow: hidden;
 }
 
 :root {
@@ -14,6 +13,7 @@
 .banner {
   display: grid;
   grid-template-columns: 3fr 4fr;
+  overflow: hidden;
 }
 
 .banner .box {
